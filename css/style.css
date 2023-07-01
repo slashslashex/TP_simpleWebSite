@@ -1,0 +1,22 @@
+.card{
+    width: 25%;
+    margin-left: 2%;
+}
+
+div{
+    justify-content: center;
+}
+.msg{
+    border: 2px solid #90450e;
+    border-radius: 3px;
+    padding: 10px;
+    text-align: left;
+    font-weight: bold;
+    width: 341px;
+}
+.mybutton{
+    padding: 10px;
+    background: #e3e3e3;
+    border: unset;
+    cursor: pointer;
+}
